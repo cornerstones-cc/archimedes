@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <list>
+        <item>/v3/api-docs</item>
+        <item>/swagger-ui/index.html</item>
+        <item>/swagger-ui/swagger-ui-bundle.js</item>
+        <item>/swagger-ui/swagger-initializer.js</item>
+        <item>/swagger-ui/index.css</item>
+        <item>/swagger-ui/swagger-ui.css</item>
+        <item>/swagger-ui/swagger-ui-standalone-preset.js</item>
+        <item>/swagger-ui/favicon-32x32.png</item>
+        <item>/swagger-ui/favicon-16x16.png</item>
+        <item>/v3/api-docs/swagger-config</item>
+        <item>/utilities/dfs/download</item>
+        <item>/utilities/dfs/upload</item>
+        <item>/authn/sign-in</item>
+        <item>/settings/system/system-profile</item>
+        <item>/settings/system/sign-in-options</item>
+        <item>/mockup/authn/access-token</item>
+        <item>/mockup/authn/user-info</item>
+        <item>/mockup/dataperm/resource-structure</item>
+        <item>/mockup/dataperm/resource-content</item>
+        <item>/mockup/usync/listing-users</item>
+        <item>/utilities/d-task/tasks/start</item>
+        <item>/utilities/d-task/tasks/stop</item>
+        <item>/utilities/d-task/tasks</item>
+        <item>/utilities/d-task/tasks/paging-query</item>
+        <item>/utilities/d-server/server-ip-address</item>
+        <item>/utilities/d-job/job-execution</item>
+        <item>/utilities/d-job/job-execution/stop</item>
+        <item>/utilities/d-job/job-registration/server-ip-address</item>
+    </list>
+</configuration>

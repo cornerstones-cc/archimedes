@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <oss-endpoint name="placeholder" />
+    <ram-user-accesskey id="placeholder" secret="placeholder" />
+    <bucket name="placeholder" />
+    <home-directory name="placeholder" />
+</configuration>

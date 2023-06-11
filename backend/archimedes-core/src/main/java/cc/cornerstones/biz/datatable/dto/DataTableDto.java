@@ -1,0 +1,67 @@
+package cc.cornerstones.biz.datatable.dto;
+
+import cc.cornerstones.almond.types.BaseDto;
+import cc.cornerstones.biz.datasource.share.constants.DataTableTypeEnum;
+import lombok.Data;
+import java.util.List;
+
+/**
+ * Data Table
+ *
+ * @author bbottong
+ *
+ */
+@Data
+public class DataTableDto extends BaseDto {
+    /**
+     * UID
+     */
+    private Long uid;
+
+    /**
+     * Name
+     * <p>
+     * A name is used to identify the object.
+     */
+    private String name;
+
+    /**
+     * Object Name
+     * <p>
+     * An object name is how the object is referenced programmatically.
+     */
+    private String objectName;
+
+    /**
+     * Description
+     * <p>
+     * A meaning description helps you remembers the differences between objects.
+     */
+    private String description;
+
+    /**
+     * Type
+     */
+    private DataTableTypeEnum type;
+
+    /**
+     * Context Path
+     */
+    private List<String> contextPath;
+
+    /**
+     * 当 type = DataTableTypeEnum.INDIRECT_TABLE 时，需要填写
+     * Building Logic of indirect table
+     */
+    private String buildingLogic;
+
+    /**
+     * 内部版本号
+     */
+    private Long buildNumber;
+
+    /**
+     * 所属 Data Source 的 UID
+     */
+    private Long dataSourceUid;
+}

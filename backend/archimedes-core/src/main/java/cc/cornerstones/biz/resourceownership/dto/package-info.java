@@ -1,0 +1,1 @@
+package cc.cornerstones.biz.resourceownership.dto;
