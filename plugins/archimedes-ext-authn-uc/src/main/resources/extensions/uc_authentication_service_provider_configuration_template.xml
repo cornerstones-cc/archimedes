@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <token-uri name="cc"/>
+    <userinfo-uri name="cc"/>
+    <username name="dd" />
+</configuration>

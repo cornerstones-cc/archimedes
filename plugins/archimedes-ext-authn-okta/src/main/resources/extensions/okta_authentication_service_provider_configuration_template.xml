@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <client id="aa" secret="bb" />
+    <grant-type name="authorization_code" />
+    <token-uri name="cc" />
+    <userinfo-uri name="dd" />
+
+</configuration>

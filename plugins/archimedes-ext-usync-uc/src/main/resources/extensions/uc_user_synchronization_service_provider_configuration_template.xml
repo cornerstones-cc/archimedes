@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <user-list-uri name="bb" username="xxx"/>
+
+    <role-mapping>
+        <item source-role-code="" source-role-name="" target-role-uid="" target-role-name="" />
+        <item source-role-code="" source-role-name="" target-role-uid="" target-role-name="" />
+    </role-mapping>
+
+    <group-mapping>
+        <item source-group-code="" source-group-name="" target-group-uid="" target-group-name=""  />
+        <item source-group-code="" source-group-name="" target-group-uid="" target-group-name=""  />
+    </group-mapping>
+
+    <account-type-mapping>
+        <item name="玛氏工号" target-account-type-uid="" target-account-type-name="" />
+        <item name="玛氏邮箱" target-account-type-uid="" target-account-type-name="" />
+        <item name="Mars AD Number" target-account-type-uid="" target-account-type-name="" />
+    </account-type-mapping>
+
+    <extended-property-mapping>
+        <item name="玛氏工号" target-extended-property-uid="" target-extended-property-name="" />
+        <item name="玛氏邮箱" target-extended-property-uid="" target-extended-property-name="" />
+        <item name="Mars AD Number" target-extended-property-uid="" target-extended-property-name="" />
+    </extended-property-mapping>
+</configuration>
